@@ -84,6 +84,7 @@ background-color: #f6f6f6;
 .site-header-logo {
   display: flex;
   padding: 8px 6px;
+  margin-right: 35px;
   border-radius: 7px;
   background-color:#fff
 }
@@ -106,7 +107,7 @@ background-color: #f6f6f6;
 
 }
 .currency-rates-item {
-  margin: right 25px;
+  margin-right: 25px;
 }
 .currency-rates-type {
   color:#2959ce
